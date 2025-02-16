@@ -1,0 +1,2 @@
+global_epoch,avg_train_loss,avg_box_loss,avg_cls_loss,avg_dfl_loss,precision,recall,mAP50,mAP50-95
+1,,,,,,,,
